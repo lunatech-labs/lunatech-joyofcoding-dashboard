@@ -1,12 +1,25 @@
+.sponsor {
+    position: relative;
+    left: 230px;
+    top: 20px;
+    opacity: 0.7;
+}
+
+.sponsor img {
+    z-index: 999;
+}
+
 #members li {
    list-style: none;
-   width: 500px;
+   display: inline;
    margin: 10px;
+
 }
 
 #members li img {
     margin-left: 20px;
     vertical-align: middle;
+    margin-top:20px;
 }
 
 #members li span {
@@ -15,6 +28,11 @@
     font-weight: bold;
 }
 
+#members {
+    width: 600px;
+    position: relative;
+    top: -100px;
+}
 /*-------------------------------------------------
 PAGE BODY
 -------------------------------------------------*/
