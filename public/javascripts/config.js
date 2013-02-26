@@ -2,7 +2,7 @@ var config = {
   debug: false,
   title: 'Joy Of Coding 2013',
 
-  search: 'from:@joyofcoding OR #joc2013 OR joyofcoding.org OR #joyofcoding OR #joyofcoding2013',
+  search: 'from:@joyofcoding OR #joc2013 OR joyofcoding.org OR joyofcoding OR joyofcoding2013',
 
   timings: {
     defaultNoticeHoldTime: '10s',
